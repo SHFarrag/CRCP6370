@@ -1,0 +1,1 @@
+Repository for the AI in the Metaverse Class
