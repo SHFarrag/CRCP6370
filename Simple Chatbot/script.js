@@ -18,7 +18,7 @@ async function sendMessage() {
         botReply = "Periods are a natural part of growing up! You can feel more comfortable by using pads, tampons, or period underwear and practicing good hygiene. It’s okay to feel tired or crampy—warm baths, gentle exercise, and plenty of water can help relieve discomfort. 💖";
     } else if (userInput.includes("acne") || userInput.includes("pimples")) {
         botReply = "Acne is common during puberty. Keeping your skin clean and avoiding picking at pimples can help. Try using a gentle face wash once or twice a day and drinking lots of water. If acne bothers you a lot, you could talk to a doctor for extra tips!";
-    } else if (userInput.includes("body changes") || userInput.includes("breasts") || userInput.includes("growth")) {
+    } else if (userInput.includes("body changes") || userInput.includes("breasts") || userInput.includes("growth")|| userInput.includes("chest")) {
         botReply = "Your body changes in many ways during puberty, like breast development and growth spurts. It's all normal, and everyone grows at their own pace. 🌸";
     } else if (userInput.includes("mood swings") || userInput.includes("emotions")) {
         botReply = "Mood swings can happen due to changing hormones during puberty. Talking to someone about your feelings, journaling, or practicing relaxation exercises like deep breathing can help.";
